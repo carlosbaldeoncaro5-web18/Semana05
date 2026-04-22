@@ -1,11 +1,9 @@
-print ("532532")
-
-num  = 4
-
-encontrado = True
-
-print ("el numero es : " + str(num) )
+num = 4
+oracion= "holy vaca"
+print("el numero es: "+str(num)+ " "+oracion)
 
 
-bebida = input("cual es tu bebida fav?")
-print (bebida)
+
+numero= input("ingrese su numero: ")
+print ("su numero es: "+str(numero))
+
